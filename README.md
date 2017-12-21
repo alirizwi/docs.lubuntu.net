@@ -80,13 +80,13 @@ How does lubuntu compare to MacOS?
 [![alt text][6.1]][6]
 [![alt text][7.1]][7]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
-[2.1]: http://i.imgur.com/P3YfQoD.png (Facebook)
-[3.1]: http://i.imgur.com/yCsTjba.png (Google+)
-[4.1]: https://i.imgur.com/3Gqdaz9.png (Youtube)
-[5.1]: https://i.imgur.com/1it5YP9.png (Linkedin)
-[6.1]: https://i.imgur.com/rp2LiYA.png (Github)
-[7.1]: https://i.imgur.com/oegkPQP.png (Launchpad)
+[1.1]: img/twitter.png (Twitter)
+[2.1]: img/facebook.png (Facebook)
+[3.1]: img/googleplus.png (Google+)
+[4.1]: img/youtube.png (Youtube)
+[5.1]: img/in.png (Linkedin)
+[6.1]: img/github.png (Github)
+[7.1]: img/launchpad.png (Launchpad)
 
 [1]: https://twitter.com/lubuntudesktop/
 [2]: https://www.facebook.com/lubuntudesktop/
