@@ -67,6 +67,31 @@ How does lubuntu compare to MacOS?
 * Ubuntu: [ubuntu.com](https://ubuntu.com)
 * Linux: [linux.com](https://linux.com)
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+[![alt text][7.1]][7]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (Facebook)
+[3.1]: http://i.imgur.com/yCsTjba.png (Google+)
+[4.1]: https://i.imgur.com/3Gqdaz9.png (Youtube)
+[5.1]: https://i.imgur.com/1it5YP9.png (Linkedin)
+[6.1]: https://i.imgur.com/rp2LiYA.png (Github)
+[7.1]: https://i.imgur.com/oegkPQP.png (Launchpad)
+
+
+[1]: https://twitter.com/lubuntudesktop/
+[2]: https://www.facebook.com/lubuntudesktop/
+[3]: https://plus.google.com/u/0/107909502516592034334/
+[4]: https://www.youtube.com/channel/UC0nEnI4yt2OCiZwRT0q90tQ/
+[5]: https://www.linkedin.com/groups/3742725
+[6]: https://github.com/lubuntu-dev/
+[7]: https://launchpad.net/~lubuntu-x
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
