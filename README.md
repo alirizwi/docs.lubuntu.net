@@ -1,16 +1,26 @@
-# docs.lubuntu.net
+# Lubuntu Documentation
 
 ## About lubuntu
 [Lubuntu](https://lubuntu.net) is a fast and lightweight operating system. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. It focuses on speed and energy-efficiency. Because of this, Lubuntu has very low hardware requirements.
 
 ## System Requirements
-Our tests showed that until version 16.04 lubuntu can be installed on a Pentium II or Celeron system with 256 MB RAM to get a usable system. With 512 MB of RAM, you do not need to worry much. The recommended "Desktop" installer after version 17.04 is 1 GB of RAM. For PCs with less resources, you can also try an alternative installer, that should still work with lower requirements from the download pages.
+Our tests show that until version 16.04 lubuntu can be installed on a Pentium II or Celeron system with 256 MB RAM to get a usable system. With 512 MB of RAM, you do not need to worry much. The recommended "Desktop" installer after version 17.04 is 1 GB of RAM. For PCs with less resources, you can also try an alternative installer, that should still work with lower requirements from the download pages.
 
 ## Applications in lubuntu
 
 lubuntu is a full-featured desktop, that includes a selection of lightweight tools and applications. Here are links with details and the list of [Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu.](https://help.ubuntu.com/community/Lubuntu/Setup#Applications)
 
-## Current lubuntu Releases
+## Installation of lubuntu
+
+### lubuntu Installation on Most Systems
+
+How to install lubuntu on commonly used hardware and standard systems? Please find [installation instructions for lubuntu here](/installation).
+
+### lubuntu Installation on Very Old Computers
+
+How to install lubuntu on older hardware and very old computers? Please find [installation instructions through "Advanced Installation Methods" here](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods).
+
+## lubuntu Releases
 
 How to choose the right version of lubuntu? Here are a few pointers:
 
@@ -20,12 +30,10 @@ How to choose the right version of lubuntu? Here are a few pointers:
 * For the Mac64 version for Intel Macs of 2006 and beyond, please use the 64-bit version.
 * If you have a PC with very low-RAM (less than 700 MB) please use the alternate versions with a smaller set of applications.
 
-## Installation
+**lubuntu Versions**
 
-[Installation Instructions for lubuntu](/installation)
+Below you find links to a copy of the release notes and links to downloads.
 
-## Version
-[Download Page at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/)
 * Lubuntu 17.10, Release Notes, Downloads
 * Lubuntu 17.04, Release Notes, Downloads
 * Lubuntu 16.10, Release Notes, Downloads
@@ -41,26 +49,23 @@ How to choose the right version of lubuntu? Here are a few pointers:
 * Lubuntu 10.10, Release Notes, Downloads
 * Lubuntu 10.04, Release Notes, Downloads
 
-## lubuntu for Very Old Computers
+There is also a [download page of lubuntu releases at Ubuntu.com](http://cdimage.ubuntu.com/lubuntu/releases/).
 
-[Installation through Advanced Methods](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods)
+## lubuntu compared to other Systems
 
-# lubuntu compared to other Systems
+### lubuntu vs Windows
 
-## lubuntu vs Windows
+[How does lubuntu compare to Windows?](lubuntu_vs_Windows.md)
 
-[How does lubuntu compare to Windows?](/Comparison/windows.md)
-
-## lubuntu vs Ubuntu
+### lubuntu vs Ubuntu
 
 [How does lubuntu compare to Ubuntu?](https://wiki.ubuntu.com/Lubuntu#Lubuntu_vs_Ubuntu)
 
-## lubuntu vs MacOS
+### lubuntu vs MacOS
 
 How does lubuntu compare to MacOS?
 
-
-# Links
+## Links
 
 * lubuntu Website: [lubuntu.net](https://lubuntu.net)
 * LXDE Website: [lxde.org](https://lxde.org)
@@ -82,7 +87,6 @@ How does lubuntu compare to MacOS?
 [5.1]: https://i.imgur.com/1it5YP9.png (Linkedin)
 [6.1]: https://i.imgur.com/rp2LiYA.png (Github)
 [7.1]: https://i.imgur.com/oegkPQP.png (Launchpad)
-
 
 [1]: https://twitter.com/lubuntudesktop/
 [2]: https://www.facebook.com/lubuntudesktop/
